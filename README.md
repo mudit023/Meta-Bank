@@ -1,4 +1,4 @@
-# HooBank
+# Meta Bank
 Modern landing page of a banking website.
 
 ## Description
